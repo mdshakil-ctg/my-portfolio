@@ -1,2 +1,49 @@
+body{
+    font-family: 'Lobster Two', cursive;
+    margin: 0;
+}
+.header{
+    background: url(img/backgroud-img/leone-venter-VieM9BdZKFo-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+
+}
+.for-padding{
+    padding-left: 240px;
+    padding-top: 180px;
+    
+}
+.for-padding span{
+    font-size: 30px;   
+}
+
+.for-padding h1{
+    font-size: 45px;
+    color: rgb(104, 46, 10);
+    line-height: 20px;  
+}
+
+.for-padding p{
+    font-size: 25px;
+}
+.button{
+    background-color: rgb(226, 84, 37);
+    padding: 5px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: rgb(7, 34, 49);
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
